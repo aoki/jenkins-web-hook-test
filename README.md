@@ -7,3 +7,5 @@
 ## Jenkins Plugins
 - GitHub Plugin
 - Run Condition Plugin
+
+## Additional Settings
